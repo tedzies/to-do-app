@@ -1,0 +1,44 @@
+h1{
+  font-family: 'Permanent Marker', cursive;
+  color: #dc2f02;
+}
+
+.App{
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.filterButtons {
+  border-radius: 16px;
+}
+
+.edit{
+  border: none;
+  color: #e85d04;
+}
+
+.check{
+  border: none;
+  color: #198754;
+}
+
+.delete{
+  border: none;
+  color: #AE0F10;
+}
+
+
+textarea{
+  resize: none;
+  font-size: large;
+  font-weight: 700;
+}
+
+.primary{
+  color: #fff;
+  background-color: #e85d04;
+}
+
+.secondary{
+  color: #fff;
+  background-color: #03071e;
+}
